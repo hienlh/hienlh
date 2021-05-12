@@ -62,9 +62,9 @@ Languages and Tools🛠:
   <img align="left" alt="Hien's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<!--<a href="https://twitter.com/xxxx">
+<a href="https://twitter.com/HierenLee">
   <img align="left" alt="Hien's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>-->
+</a>
 
 <a href="https://www.linkedin.com/in/hienlh/">
   <img align="left" alt="Hien's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
