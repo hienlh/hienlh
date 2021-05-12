@@ -129,3 +129,6 @@ Other        47 mins         ▓░░░░░░░░░░░░░░░░
 JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical)](https://git.io/streak-stats)
+
