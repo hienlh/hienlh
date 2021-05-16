@@ -83,7 +83,7 @@ Languages and Tools🛠:
   </a>
 
 <a href="https://github.com/hienlh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Hien's github stats"/>
 </a>
 
 <br/>
