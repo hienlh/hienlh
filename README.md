@@ -69,6 +69,10 @@ Languages and Tools🛠:
   <img align="left" alt="Hien's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<a href="https://wakatime.com/@hienlh">
+  <img align="left" alt="Hien's Wakatime" width="22px" src="https://wakatime.com/favicon.ico" />
+</a>
+
 <br/>
 
 </details>
