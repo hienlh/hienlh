@@ -1,8 +1,7 @@
 <!--[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)-->
 
 ### About me🧑:
-I'm a full-stack mobile developer.<br/>
-I'm familiar with NodeJS, Flutter and ReactJs<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=I'm+a+full-stack+mobile+developer.;I'm+familiar+with+NodeJS%2C+Flutter+and+ReactJs.)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
