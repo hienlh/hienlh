@@ -7,7 +7,7 @@ on:
     - cron: "0 12 * * *"
 
 jobs:
-  update-readme:
+  none-contributed-alert:
     name: None contributed alert
     runs-on: ubuntu-latest
     steps:
