@@ -3,7 +3,7 @@
 ### About me🧑:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=I'm+a+full-stack+mobile+developer.;I'm+familiar+with+NodeJS%2C+Flutter+and+ReactJs.)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://getloaf.io/space%20pack%20images/astronaut1.svg" width="400" height="280" />
 
 - ✌️ 2 years of experience in developing mobile applications by Flutter.<br/>
 - 👍 More than 1 year of experience in developing backends with NodeJS.
