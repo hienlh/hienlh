@@ -1,9 +1,9 @@
 <svg width="287" height="149" viewBox="0 0 287 149" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
-        .path1 { animation: line-anim 4s ease-in-out forwards infinite; }
-        .path2 { animation: line-anim 4s ease-in-out forwards 1s infinite; }
-        .path3 { animation: line-anim 4s ease-in-out forwards 2s infinite; }
-        .path4 { animation: line-anim 4s ease-in-out forwards 3s infinite; }
+        .path1 { animation: line-anim 4s ease-in-out forwards; }
+        .path2 { animation: line-anim 4s ease-in-out forwards 1s; }
+        .path3 { animation: line-anim 4s ease-in-out forwards 2s; }
+        .path4 { animation: line-anim 4s ease-in-out forwards 3s; }
 
         @keyframes line-anim {
             to {
