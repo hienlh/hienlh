@@ -1,6 +1,9 @@
-<h3 align="center">Welcome to Hiển's profile!</h3>
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/hienlh/hienlh/main/hien.svg">
+</div>
 
 ### About me:
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=I'm+a+full-stack+mobile+developer.;I'm+familiar+with+NodeJS%2C+Flutter+and+ReactJs.)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://getloaf.io/space%20pack%20images/astronaut1.svg" width="400" height="280" />
@@ -8,15 +11,15 @@
 - ✌️ 2+ years of experience in developing mobile applications by Flutter.<br/>
 - 👍 ~2 year of experience in developing backends with NodeJS.
 - ✨ Ability to work under pressure and manage tasks with less-supervision. Eager to learn new
-knowledge technologies.
+  knowledge technologies.
 - ✅ Ability to analytic problem and finger out the solution
 - ⭐ Have skill at solving problems, testing, deploying, and maintaining the mobile app, backend
-system.
+  system.
 - 😊 Good at communication, interpersonal skills.
 - 😜 Confident and friendly with customers and colleagues.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always update myself.
-- 🎢 Profile Visitors Count:  
+- 🎢 Profile Visitors Count:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hienlh)
 
@@ -41,7 +44,7 @@ Languages and Tools🛠:
 </details>
 
 <details>
-<summary> Connect with me🤝: </summary>  
+<summary> Connect with me🤝: </summary>
 
 <br/>
 
@@ -96,7 +99,7 @@ Languages and Tools🛠:
 <br/>
 
 ### My Projects ✨:
-  
+
 <a href="https://github.com/cupizz/cupizz_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cupizz&repo=cupizz_app&theme=tokyonight" />
 </a>
@@ -124,14 +127,15 @@ Languages and Tools🛠:
 ### My WakaTime Stats 📊:
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   15 hrs 54 mins  ████████████░░░░░░░░░░░░░   48.54 % 
-Dart         11 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.51 % 
-YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-JavaScript   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+TypeScript   15 hrs 54 mins  ████████████░░░░░░░░░░░░░   48.54 %
+Dart         11 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.51 %
+YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JavaScript   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical)](https://git.io/streak-stats)
-
