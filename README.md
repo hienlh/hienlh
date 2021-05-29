@@ -43,10 +43,8 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
 
-<details>
-<summary> Connect with me🤝: </summary>
 
-<br/>
+Connect with me🤝: 
 
 <!--<a href="https://t.me/xxxxx">
   <img align="left" alt="Hien's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
@@ -77,8 +75,6 @@ Languages and Tools🛠:
 </a>
 
 <br/>
-
-</details>
 
 ---
 
