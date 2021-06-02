@@ -86,13 +86,10 @@ Connect with me🤝:
 
 <a href="https://github.com/hienlh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Hien's github stats"/>
+  <br/>
+  <br/>
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical" alt="Hien's github stats"/>
 </a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### My Projects ✨:
 
@@ -132,4 +129,3 @@ Swift        28 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical)](https://git.io/streak-stats)
