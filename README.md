@@ -77,16 +77,14 @@ Connect with me🤝:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/hienlh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienlh&theme=tokyonight" />
+<div align="center" >
+  <a href="https://github.com/hienlh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Hien's github stats"/>
+    <br/>
+    <br/>
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical" alt="Hien's github stats"/>
   </a>
-
-<a href="https://github.com/hienlh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Hien's github stats"/>
-  <br/>
-  <br/>
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical" alt="Hien's github stats"/>
-</a>
+</div>
 
 ### My Projects ✨:
 
