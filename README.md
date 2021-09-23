@@ -79,37 +79,37 @@ Connect with me🤝:
 
 <div align="center" >
   <a href="https://github.com/hienlh">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&theme=tokyonight&line_height=27" alt="Hien's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hienlh&show_icons=true&line_height=27" alt="Hien's github stats"/>
     <br/>
     <br/>
-   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hienlh&theme=radical" alt="Hien's github stats"/>
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hienlh" alt="Hien's github stats"/>
   </a>
 </div>
 
 ### My Projects ✨:
 
 <a href="https://github.com/cupizz/cupizz_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cupizz&repo=cupizz_app&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cupizz&repo=cupizz_app" />
 </a>
 
 <a href="https://github.com/Ginkgo-App/ginkgo_mobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkgo-App&repo=ginkgo_mobile&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkgo-App&repo=ginkgo_mobile" />
 </a>
 
 <a href="https://github.com/hienlh/flutter_point_tab_bar">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hienlh&repo=flutter_point_tab_bar&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hienlh&repo=flutter_point_tab_bar" />
 </a>
 
 <a href="https://github.com/hienlh/none-contributed-alert">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hienlh&repo=none-contributed-alert&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hienlh&repo=none-contributed-alert" />
 </a>
 
 <a href="https://github.com/restaurant-management/resman-web-admin-api">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=restaurant-management&repo=resman-web-admin-api&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=restaurant-management&repo=resman-web-admin-api" />
 </a>
 
 <a href="https://github.com/restaurant-management/resman-mobile-customer">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=restaurant-management&repo=resman-mobile-customer&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=restaurant-management&repo=resman-mobile-customer" />
 </a>
 
 ### My WakaTime Stats 📊:
