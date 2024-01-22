@@ -88,10 +88,6 @@ Connect with me🤝:
 
 ### My Projects ✨:
 
-<a href="https://github.com/cupizz/cupizz_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cupizz&repo=cupizz_app" />
-</a>
-
 <a href="https://github.com/Ginkgo-App/ginkgo_mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkgo-App&repo=ginkgo_mobile" />
 </a>
@@ -111,14 +107,3 @@ Connect with me🤝:
 <a href="https://github.com/restaurant-management/resman-mobile-customer">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=restaurant-management&repo=resman-mobile-customer" />
 </a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
