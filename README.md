@@ -8,8 +8,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hienlh/hienlh/main/gif.svg" width="400" height="280" />
 
-- ✌️ 4+ years of experience in developing mobile applications by Flutter.<br/>
-- 👍 4+ year of experience in developing backends with NodeJS.
+- ✌️ 5+ years of experience in developing mobile applications by Flutter.<br/>
+- 👍 5+ year of experience in developing backends with NodeJS.
 - ✨ Ability to work under pressure and manage tasks with less-supervision. Eager to learn new
   knowledge technologies.
 - ✅ Ability to analytic problem and finger out the solution
